@@ -1,0 +1,122 @@
+{
+    "name": "InputMaster",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "448c0afd-4fcf-4f8d-ad12-e4073ccc2b61",
+            "actions": [
+                {
+                    "name": "DragAndDropNavigation",
+                    "type": "Button",
+                    "id": "8b706eaa-b9cb-49b4-8974-9538423cfe40",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Selection",
+                    "type": "Button",
+                    "id": "db0a6231-a8db-412e-a596-e76eaa2b50bf",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Abortion",
+                    "type": "Button",
+                    "id": "cb53294c-c75b-4c22-b86d-6bf5dfebc142",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ReturnToLastMenu",
+                    "type": "Button",
+                    "id": "fb1ece7b-83ff-48a4-90b7-fc2eebb537df",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d7c77228-fe9c-4f43-9502-58a8f0da382b",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "DragAndDropNavigation",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "39e2dc59-f100-4f92-bb35-215fa9a3bf75",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Selection",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9b27bf97-a7b4-4dbf-beb5-d16c5cf21154",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Abortion",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "343ebbd5-6836-4e98-81cb-54339ae8beaa",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ReturnToLastMenu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "GameManagement",
+            "id": "545759f0-b7e3-4b53-8632-51c672f885fe",
+            "actions": [
+                {
+                    "name": "SwitchToGamepadControl",
+                    "type": "Button",
+                    "id": "75007991-971e-4f19-a707-ee9fd103a11d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "015f3a27-e40e-4982-8e5b-cb5648769c4a",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SwitchToGamepadControl",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
