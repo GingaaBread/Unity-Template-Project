@@ -23,3 +23,4 @@ This template contains useful .gitignore folders and files, and a Git LSF .gitat
 - Localisation used
 - Localisation Settings
 - InputMaster script with YPPGUtility controls
+- Tests & Assembly Definitions
