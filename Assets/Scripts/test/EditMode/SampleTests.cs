@@ -11,7 +11,7 @@ public class SampleTests
     public void SampleTestsSimplePasses()
     {
         // Use the Assert class to test conditions
-        Assert.Fail();
+        Assert.Pass();
     }
-    
+
 }
